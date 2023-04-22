@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Eduardo;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Carlos+Eduardo;I'm+20+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CarlosEduardoPR&bg_color=0d1117&color=FFF&line=FFF3&point=FFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoPR&show_icons=true&count_private=true&hide_border=true&title_color=1E90FF&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoPR&layout=compact&hide_border=true&title_color=ff91a4&text_color=1E90FF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CarlosEduardoPR&show_icons=true&count_private=true&hide_border=true&title_color=FFF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Carlos Eduardo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEduardoPR&layout=compact&hide_border=true&title_color=FFF&text_color=1E90FF&bg_color=0d1117" />
 </div>
 
 
